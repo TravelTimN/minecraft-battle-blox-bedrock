@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "bb:battle_blox",
+      "register_to_creative_menu": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:explosion_resistance": 5,
+      "minecraft:destroy_time": 0.3,
+      "minecraft:loot": "loot_tables/blocks/battle_blox.json"
+    }
+  }
+}

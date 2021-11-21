@@ -1,0 +1,7 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/battle_blox",
+        "atlas_tile": "battle_blox",
+        "ticks_per_frame": 20
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "format_version": [0, 0, 1],
+  "bb:battle_blox": {
+    "textures": "battle_blox",
+    "sound": "glass"
+  }
+}

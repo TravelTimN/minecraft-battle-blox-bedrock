@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Created by TravelTimN",
+        "name": "Battle Blox",
+        "uuid": "9204f89c-cfe5-4085-ab65-5a41223108bd",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Created by TravelTimN",
+            "type": "data",
+            "uuid": "be03a0bd-4fbf-42df-8de9-66632be9eebc",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "7a06f065-c4f6-4f89-af85-6ca46fe3ed48",
+            "version": [1, 0, 0]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "battle_blox_feature"
+    },
+    "count": 3,
+    "places_block": "bb:battle_blox",
+    "may_replace": [
+      {
+        "name": "minecraft:stone",
+        "states": {
+          "stone_type": "andesite"
+        }
+      },
+      {
+
+        "name": "minecraft:stone",
+        "states": {
+          "stone_type": "stone"
+        }
+      }
+    ]
+  }
+}
